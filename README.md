@@ -6,4 +6,4 @@ projects coming soon.
 
 ## Reach me @
 <img
-src=https://discord.c99.nl/widget/theme-3/850946809827950603.png>
+src=https://discord.c99.nl/widget/theme-4/850946809827950603.png>
